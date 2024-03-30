@@ -1,2 +1,3 @@
 # QuickRPC
-Easy and Fast Discord RPC w/Node.js
+一度DiscordRPCを触ろうとして、やめたんですよ(面倒で)
+でもやっぱほしいので作ります。多分。
